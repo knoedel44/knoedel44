@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# 💫 About Me:
+
+# 💫 Hi there, I'm Knödel👋
 Im a self taught programmer who started in 2020. Currently Im doing an apprenticeship to become a developer. Im looking forward to finish it succesfully in 2023. I enjoy Web-Development.
 
 
