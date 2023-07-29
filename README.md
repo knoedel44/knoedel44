@@ -1,7 +1,7 @@
 
 
 # 💫 Hi there, I'm Knödel👋
-Im a self taught programmer who started in 2020. Currently Im doing an apprenticeship to become a developer. Im looking forward to finish it successfully in 2023. I enjoy Web-Development.
+Im a self taught programmer who started in 2020. I finished my apprenticeship in July 2023 and I am now looking for new challenges. I enjoy Web-Development🤍.
 
 
 # 💻 Tech Stack:
