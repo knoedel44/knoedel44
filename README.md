@@ -1,7 +1,7 @@
 
 
 # 💫 Hi there, I'm Knödel👋
-Im a self taught programmer who started in 2020. I finished my apprenticeship in July 2023 and I am now looking for new challenges. I enjoy Web-Development🤍.
+- Frontend Developer based in Germany 🌍
 
 
 # 💻 Tech Stack:
